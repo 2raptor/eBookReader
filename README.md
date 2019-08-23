@@ -7,4 +7,5 @@ Click on download PDF and then open PDF.
 
 ## Read the PDF
 In order to build a outline for PDF, it has to be a proper ebook with bookmark/links from content page to the actual page. The project a file called "swift.pdf" which is of right format.
+
 <img src=https://raw.githubusercontent.com/2raptor/eBookReader/master/Snapshots/ebook-reader.png width=300>
